@@ -89,50 +89,20 @@ aside {
   background-color: #2589bd;
 }
 
-/* Consolidated benefit- lead, brand and cost. */
-.benefit-lead {
+/* Consolidated benefit- lead, brand and cost for the main container */
+.benefit-section {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* Consolidated benefit- lead, brand and cost for the H3 */
+.benefit-section h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-.benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-cost h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-lead img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-cost img {
+/* Consolidated benefit- lead, brand and cost for the img */
+.benefit-section img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
