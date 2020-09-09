@@ -16,7 +16,7 @@ The Horiseon website is a website that provides information on Search Engine Opt
 
 ## Screenshot
 
-![ImageOfHoriseon] (./assets/images/HoriseonWebsite.JPG)
+![ImageOfHoriseon] (Homework\horiseon-code-refactor\assets\images\HoriseonWebsite.JPG)
 
 ## Acceptance_Criteria
 
