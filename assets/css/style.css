@@ -4,10 +4,6 @@
   margin: 0;
 }
 
-body {
-  background-color: #d9dcd6;
-}
-
 /* replaced the header class with the header semantic element*/
 header {
   padding: 20px;
@@ -43,6 +39,10 @@ header nav ul li {
   margin-left: 25px;
 }
 
+body {
+  background-color: #d9dcd6;
+}
+
 a {
   color: #ffffff;
   text-decoration: none;
@@ -52,24 +52,6 @@ p {
   font-size: 16px;
 }
 
-.hero {
-  height: 800px;
-  width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
 /* Replaced content class with main element. */
 main {
   width: 75%;
@@ -89,23 +71,36 @@ aside {
   background-color: #2589bd;
 }
 
-/* Consolidated benefit- lead, brand and cost for the main container */
-.benefit-section {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-/* Consolidated benefit- lead, brand and cost for the H3 */
-.benefit-section h3 {
-  margin-bottom: 10px;
+/* Added a footer semantic element */
+footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
 
-/* Consolidated benefit- lead, brand and cost for the img */
-.benefit-section img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
+footer h2 {
+  font-size: 20px;
+}
+
+.hero {
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.float-left {
+  float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
 }
 
 /* Consolidated .search-engine-optimization, .online-reputation-management, and .social-media-marketing into one class.  This class is applied to the main section of the HTML body.  */
@@ -129,15 +124,21 @@ aside {
   font-size: 36px;
 }
 
-/* Added a footer semantic element */
-footer {
-  padding: 30px;
-  clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+/* Consolidated benefit- lead, brand and cost for the main container */
+.benefit-section {
+  margin-bottom: 32px;
+  color: #ffffff;
+}
+
+/* Consolidated benefit- lead, brand and cost for the H3 */
+.benefit-section h3 {
+  margin-bottom: 10px;
   text-align: center;
 }
 
-footer h2 {
-  font-size: 20px;
+/* Consolidated benefit- lead, brand and cost for the img */
+.benefit-section img {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
 }

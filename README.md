@@ -5,7 +5,7 @@ Horiseon website refactor
 ## Table of Contents
 
 - [Description] (#description)
-  - [Acceptance Criteria] (#acceptance-criteria)
+- [Acceptance Criteria] (#acceptance-criteria)
 - [Installation] (#installation)
 - [Credits] (#credits)
 - [Contributing] (#contributing)
