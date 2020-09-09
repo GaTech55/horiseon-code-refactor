@@ -6,7 +6,7 @@ Horiseon website refactor
 
 - [Description] (#description)
 
-* [Screenshot] (#screenshot)
+- [Screenshot] (#screenshot)
 
 - [Acceptance_Criteria] (#acceptance-criteria)
 
