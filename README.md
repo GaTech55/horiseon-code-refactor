@@ -22,7 +22,7 @@ The Horiseon website is a website that provides information on Search Engine Opt
 
 ## Screenshot
 
-![ImageOfHoriseon] (Homework\horiseon-code-refactor\assets\images\HoriseonWebsite.JPG?raw=true "ImageOfHoriseon")
+![ImageOfHoriseon] (https://github.com/GaTech55/horiseon-code-refactor/blob/master/assets/images/HoriseonWebsite.JPG "ImageOfHoriseon")
 
 ## Acceptance_Criteria
 
