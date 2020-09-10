@@ -22,7 +22,7 @@ The Horiseon website is a website that provides information on Search Engine Opt
 
 ## Screenshot
 
-![HoriseonWebpage](./assets/images/HoriseonWebsite.jpg)
+![HoriseonWebpage](./assets/images/HoriseonWebsite.JPG)
 
 ## Acceptance_Criteria
 
