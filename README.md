@@ -42,14 +42,14 @@ THEN I find a concise, descriptive title
 
 ## Installation
 
-To access this project you will need to visit my GitHub page and the "horiseon-code-refactor" repository. After the repository is cloned you can make edits to the project in your repository. Any questions should be directed to [David Brown] (mailto:gatech55@gmail.com). The project can be found here: [horiseon-code-refactor] (https://github.com/GaTech55/horiseon-code-refactor)
+To access this project you will need to visit my GitHub page and the "horiseon-code-refactor" repository. After the repository is cloned you can make edits to the project in your repository. Any questions should be directed to [David Brown] (mailto:gatech55@gmail.com). The project can be found here: [horiseon-code-refactor](https://github.com/GaTech55/horiseon-code-refactor)
 
 ## Credits
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-[GitLab-02-Homework] (https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-inc-fsf-pt-08-2020-u-c/tree/master/01-HTML-Git-CSS/02-Homework)
+[GitLab-02-Homework](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-inc-fsf-pt-08-2020-u-c/tree/master/01-HTML-Git-CSS/02-Homework)
 
 ## Contributing
 
 | **Commits** | **Contributor** |
-| 19 | [GaTech55] (https://github.com/GaTech55)|
+| 30 | [GaTech55](https://github.com/GaTech55)|
