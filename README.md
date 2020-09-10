@@ -42,7 +42,7 @@ THEN I find a concise, descriptive title
 
 ## Installation
 
-To access this project you will need to visit my GitHub page and the "horiseon-code-refactor" repository. After the repository is cloned you can make edits to the project in your repository. Any questions should be directed to [David Brown] (mailto:gatech55@gmail.com). The project can be found here: [horiseon-code-refactor](https://github.com/GaTech55/horiseon-code-refactor)
+To access this project you will need to visit my GitHub page and the "horiseon-code-refactor" repository. After the repository is cloned you can make edits to the project in your repository. Any questions should be directed to [David Brown](mailto:gatech55@gmail.com). The project can be found here: [horiseon-code-refactor](https://github.com/GaTech55/horiseon-code-refactor)
 
 ## Credits
 
@@ -52,4 +52,4 @@ To access this project you will need to visit my GitHub page and the "horiseon-c
 ## Contributing
 
 | **Commits** | **Contributor** |
-| 30 | [GaTech55](https://github.com/GaTech55)|
+| 31 | [GaTech55](https://github.com/GaTech55)|
