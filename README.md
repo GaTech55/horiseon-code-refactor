@@ -4,17 +4,17 @@ Horiseon website refactor
 
 ## Table of Contents
 
-- [Description] (#description)
+- [Description](#description)
 
-- [Screenshot] (#screenshot)
+- [Screenshot](#screenshot)
 
-- [Acceptance_Criteria] (#acceptance-criteria)
+- [Acceptance_Criteria](#acceptance-criteria)
 
-- [Installation] (#installation)
+- [Installation](#installation)
 
-- [Credits] (#credits)
+- [Credits](#credits)
 
-- [Contributing] (#contributing)
+- [Contributing](#contributing)
 
 ## Description
 
@@ -22,7 +22,7 @@ The Horiseon website is a website that provides information on Search Engine Opt
 
 ## Screenshot
 
-![ImageOfHoriseon] (https://github.com/GaTech55/horiseon-code-refactor/blob/master/assets/images/HoriseonWebsite.JPG "ImageOfHoriseon")
+![HoriseonWebpage](./assets/images/HoriseonWebsite.jpg)
 
 ## Acceptance_Criteria
 
